@@ -1,4 +1,4 @@
-
+#CNN and GradCam in Pytorch.
 
 <img
 src="img/download.png"
@@ -7,4 +7,4 @@ alt="Model"
 style="margin-right: 10px;"
 />
 
-Just Implement model above in pytorch!
+implement this model in pytorch
