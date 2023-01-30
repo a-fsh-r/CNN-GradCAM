@@ -1,1 +1,3 @@
-# Convolutional-Neural-Network-_SUT_Pytorch
+[Uploading download.png…]()
+
+Just Implement model above in pytorch!
