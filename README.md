@@ -1,4 +1,4 @@
-# CNN and Grad_Cam with Pytorch.
+# CNN and Grad-CAM with Pytorch.
 
 <img
 src="img/download.png"
