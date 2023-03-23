@@ -7,4 +7,4 @@ alt="Model"
 style="margin-right: 10px;"
 />
 
-implement this model in pytorch
+implement this model with pytorch
