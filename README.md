@@ -7,6 +7,6 @@ alt="Model"
 style="margin-right: 10px;"
 />
 
-* Implement this model in pytorch.
+* PyTorch implementation of the proposed model.
 
 In the end, The output is a heatmap image which shows which regions are the most important.
