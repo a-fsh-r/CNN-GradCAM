@@ -1,4 +1,4 @@
-# 🧠 CNN and Grad-CAM with PyTorch
+# 💡 CNN and Grad-CAM with PyTorch
 
 ![Model](img/download.png)
 
